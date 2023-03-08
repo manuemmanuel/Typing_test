@@ -5,4 +5,4 @@ This is a simple Python script that generates a random sentence and tests your t
 ## Installation
 
 1. Clone this repository
-'git clone https://github.com/your-username/typing-test.git'
+'''git clone https://github.com/your-username/typing-test.git'''
